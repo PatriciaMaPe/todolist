@@ -1,0 +1,15 @@
+.TodoItem{
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin: auto;
+}
+
+p{
+  flex-grow: 1;
+}
+
+.Item-completed {
+  text-decoration: line-through;
+}
+
